@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as n,a}from"./index-195fa2d3.js";const o={name:"AdminUserDataView",components:{}};function d(_,e,r,c,i,l){return t(),n("div",null,e[0]||(e[0]=[a("h1",{class:"admin-title"},"會員資料",-1),a("div",{class:"admin-form"},null,-1)]))}const p=s(o,[["render",d],["__scopeId","data-v-53d74774"]]);export{p as default};

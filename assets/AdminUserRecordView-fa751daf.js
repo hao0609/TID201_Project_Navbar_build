@@ -1,0 +1,1 @@
+import{_ as n,c as o,f as t,g as s}from"./index-44e17fe6.js";const r={name:"AdminUserRecordView",components:{}};function a(c,e,d,_,i,l){return o(),t("div",null,e[0]||(e[0]=[s("h1",{class:"admin-title"},"活動紀錄査詢",-1),s("div",{class:"admin-form"},null,-1)]))}const p=n(r,[["render",a],["__scopeId","data-v-233ee53f"]]);export{p as default};
